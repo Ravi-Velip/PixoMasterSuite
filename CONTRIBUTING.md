@@ -34,7 +34,7 @@ Please follow these coding standards when contributing:
 
 ## Reporting Issues
 
-If you encounter a bug or have a feature request, please [open an issue](https://github.com/your-username/PixoMasterSuite/issues) on GitHub.
+If you encounter a bug or have a feature request, please [open an issue](https://github.com/Ravi-Velip/PixoMasterSuite/issues) on GitHub.
 
 ## Code of Conduct
 
